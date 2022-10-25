@@ -1,2 +1,2 @@
 # Students-marks-Prediction
-A Logistic Regression model to predict final marks of students
+A Linear Regression model to predict final marks of students
